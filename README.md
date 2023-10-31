@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/murilo-l1/WeatherApp/blob/main/WeatherAppGUI/WeatherCheckScreenshot.png" align="center">
+    <img src="https://github.com/murilo-l1/WeatherApp/blob/master/WeatherCheckScreenshot.png" align="center">
 </p>
 
 <h2>Technologies Used</h2>
